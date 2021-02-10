@@ -1,16 +1,22 @@
-# nba-fan-engagement-r
+# NBA Fan Engagement Twitter Analysis using R
 
-Case Challenge: 
-Analyze NBA fans and their twitter engagement and support Nike’s marketing team in understanding the market. 
-We were given datasets of months of Jan 2019 - Oct 2020 to explore.
+## Business Problem 
+Analyze NBA fans and their twitter engagement in order support Nike’s marketing team in understanding the NBA fans market. 
 
+## Dataset
 I used the November 2019 dataset because of a few reasons:
-Black Friday 
-Cyber Monday
-Basketball league happening
-Pre-Christmas shopping
+- Black Friday 
+- Cyber Monday
+- Basketball league happening
+- Pre-Christmas shopping
+- Halloween
 
-= MORE INSIGHTS
 
+## Solving the Problem
+- Data Exploration and Cleaning
+- Word Associations
+- Word Clouds
+- Recommendations
 
-Full presentation is available in this repository.
+## Presentation
+Full presentation is available in this repository
