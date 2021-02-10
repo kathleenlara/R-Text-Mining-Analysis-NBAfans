@@ -20,3 +20,7 @@ I used the November 2019 dataset because of a few reasons:
 
 ## Presentation
 Full presentation is available in this repository
+
+
+# Author
+https://www.kathleenlara.com/
