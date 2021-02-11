@@ -19,7 +19,7 @@ I used the November 2019 dataset because of a few reasons:
 - Recommendations
 
 ## Presentation
-Full presentation is available in this repository
+Full presentation is available in this repository and here: https://www.youtube.com/watch?v=2TddAXs_0nw&t=201s
 
 
 # Author
