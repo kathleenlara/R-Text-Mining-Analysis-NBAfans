@@ -1,11 +1,5 @@
-#' Title: Fan Engagement NBA Tweets
-#' Purpose: A2- Case 1
-#' Author: Kathleen Lara
-#' email: kathleencastrolara@gmail.com
-#' Date: January , 2021
-
 # Set the working directory
-setwd("~/Desktop/hult_NLP_student/cases/NBA Fan Engagement/data")
+setwd("~/Desktop/NBA Fan Engagement/data")
 
 #Libraries
 library(ggplot2)
